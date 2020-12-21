@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lindstorm75&" alt="lindstorm75" /></p>
 
-<p style="margin-bottom: ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lindstorm75&show_icons=true&locale=en&layout=compact" alt="lindstorm75" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lindstorm75&show_icons=true&locale=en&layout=compact" alt="lindstorm75" /></p>
