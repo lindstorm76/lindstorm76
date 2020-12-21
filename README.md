@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thanapong Angkha</h1>
 <h3 align="center">A passionated frontend developer from Thailand.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lindstorm75&label=Profile%20views&color=0e75b6&style=flat" alt="lindstorm75" /> </p>
+
 - 👨‍💻 I’m currently learning **React**, **Weird parts of JavaScript**
 
 - 👷‍♂️ How to reach me **thanapong.a@kkumail.com**
