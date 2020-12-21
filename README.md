@@ -5,7 +5,7 @@
 
 - 👷‍♂️ How to reach me **thanapong.a@kkumail.com**
 
-- 👨‍🎓 Know about my experiences [Here's my resume ](https://drive.google.com/file/d/17H8XuZgixNPx31cei4FvA3gVFJzH29lc/view?usp=sharing)
+- 👨‍🎓 Know about my experiences [**Here's my resume**](https://drive.google.com/file/d/17H8XuZgixNPx31cei4FvA3gVFJzH29lc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
