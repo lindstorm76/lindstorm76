@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thanapong Angkha</h1>
 <h3 align="center">A passionated frontend developer from Thailand.</h3>
 
-- 👨‍💻 I’m currently learning **React**, **TypeScript** and **Mobile Development**
+- 👨‍💻 I’m currently learning **React**, **TypeScript**, **Vue** (side project) and **Mobile Development**
 
 - 👷‍♂️ How to reach me **thanapong.a@kkumail.com**
 
