@@ -3,7 +3,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://youtu.be/dQw4w9WgXcQ)
 
-- 👨‍💻 I’m currently learning **React**, **React Native**, **Vue** and **Mobile Development with Kotlin**
+- 👨‍💻 I’m currently learning **React**, **React Native**, **TypeScript**, **Vue** and **Mobile Development with Kotlin**
 
 - 👷‍♂️ How to reach me **thanapong.a@kkumail.com**
 
