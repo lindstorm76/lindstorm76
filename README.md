@@ -3,6 +3,8 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://youtu.be/dQw4w9WgXcQ)
 
+- 🛣 My hobbies are coding, learning, reading novel books, watching movies, listening to musics etc.
+
 - 👨‍💻 I’m currently learning **React**, **React Native**, **TypeScript**, **Vue** and **Kotlin**
 
 - 👷‍♂️ How to reach me **thanapong.a@kkumail.com**
