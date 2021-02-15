@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanapong Angkha</h1>
-<h3 align="center">A passionated frontend/react developer from Thailand.</h3>
+<h3 align="center">A passionated frontend/react and game developer from Thailand.</h3>
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://youtu.be/dQw4w9WgXcQ)
 
