@@ -3,7 +3,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://youtu.be/dQw4w9WgXcQ)
 
-- 🛣 My hobbies are coding, learning, reading novel books, watching movies, listening to musics, running etc.
+- 🛣 My hobbies are coding, learning, reading novel books, watching movies and anime's, listening to musics, running etc.
 
 - 👨‍💻 I’m currently learning **React**, **React Native**, **Vue**, **Kotlin**, **C++** and **Unreal Engine**
 
