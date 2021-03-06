@@ -5,7 +5,7 @@
 
 - 🛣 My hobbies are coding, learning, reading novel books, watching movies and anime's, listening to musics, running etc.
 
-- 👨‍💻 I’m currently learning React, **React Native**, Vue, **Kotlin**, **C++** and **PHP**
+- 👨‍💻 I’m currently learning React, **React Native**, Vue, **Kotlin**, **C++**, **PHP** and its awesome **CodeIgniter** framework.
 
 - 👷‍♂️ How to reach me **thanapong.a@kkumail.com**
 
