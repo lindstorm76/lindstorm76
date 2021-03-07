@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://fb.com/ppthanapong" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ppthanapong" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lindstorm76" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="lindstorm76" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/akela75" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freecodecamp.svg" alt="lindstorm76" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
