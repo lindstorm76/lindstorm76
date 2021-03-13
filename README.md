@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm P, Thanapong Angkha</h1>
-<h3 align="center">A passionated frontend/react and game developer from Thailand.</h3>
+<h3 align="center">A passionated frontend developer from Thailand.</h3>
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://youtu.be/dQw4w9WgXcQ)
 
 - 🛣 My hobbies are coding, reading novel books, watching movies and anime's, listening to musics, running etc.
 
-- 👨‍💻 I’m currently learning React, **React Native**, Vue, **Kotlin**, **C++**, **PHP** and its awesome **CodeIgniter** framework.
+- My favorite programming language: **JavaScript** and **TypeScript**
+
+- My favorite frontend framework: **React**
+
+- 👨‍💻 I’m currently learning React, **React Native**, Vue, **Kotlin**, **C++** (as a hobby ofc), **PHP** and its awesome **CodeIgniter** framework.
 
 - 👷‍♂️ How to reach me **thanapong.a@kkumail.com**
 
