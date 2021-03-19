@@ -9,7 +9,7 @@
 
 - My favorite frontend framework: **React**
 
-- 👨‍💻 I’m currently learning React, Vue, **Dart**, **Flutter**, **Kotlin**, **C++** (as a hobby ofc), **PHP** and its awesome **CodeIgniter** framework.
+- 👨‍💻 I’m currently learning React, Vue, **Dart**, **Flutter**, **Kotlin**, C++ (as a hobby ofc), **PHP** and its awesome **CodeIgniter** framework.
 
 - 👷‍♂️ How to reach me **thanapong.a@kkumail.com**
 
