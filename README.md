@@ -9,11 +9,11 @@
 
 - My favorite frontend framework: **React**
 
-- 👨‍💻 I’m currently learning React, Vue, **Dart**, **Flutter**, **Kotlin**, C++ (as a hobby ofc), **PHP** and **CodeIgniter**.
+- 👨‍💻 I’m currently learning React, Vue, **Dart**, **Flutter** (I love it!), **Kotlin**, C++ (as a hobby ofc), **PHP** and **CodeIgniter**.
 
 - 👷‍♂️ How to reach me **thanapong.a@kkumail.com**
 
-- 👨‍🎓 Know about my experiences [**here's my resume**](https://drive.google.com/file/d/17H8XuZgixNPx31cei4FvA3gVFJzH29lc/view?usp=sharing)
+- 👨‍🎓 Know about my experiences **here's my resume** (to be updated)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
