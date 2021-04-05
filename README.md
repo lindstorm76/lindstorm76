@@ -9,7 +9,7 @@
 
 - My favorite frontend framework: **React**
 
-- 👨‍💻 I’m currently learning React (with microservices), Dart, **Flutter** (I love it!), **Kotlin**, C++ (as a hobby ofc), **PHP** and **Laravel**.
+- 👨‍💻 I’m currently learning React (with microservices), Dart, **Flutter**, Kotlin, C++ (as a hobby ofc), **PHP** and **Laravel**.
 
 - 👷‍♂️ How to reach me **thanapong.a@kkumail.com**
 
