@@ -11,7 +11,7 @@
 
 - 👨‍💻 I’m currently learning **React** with **TypeScript**, **AntD**, **twin.macro**, **Recoil.js** and **Emotion**.
 
-- 👷‍♂️ How to reach me **thanapong.a@kkumail.com**
+- 👷‍♂️ How to reach me **thanapong.a@kkumail.com**, **lindstorm76@outlook.com**
 
 - 👨‍🎓 Know about my experiences thorugh this **resume** (to be updated)
 
