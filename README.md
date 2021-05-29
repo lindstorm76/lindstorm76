@@ -9,7 +9,7 @@
 
 - My favorite frontend framework: **React**
 
-- 👨‍💻 I’m currently learning **React** with **TypeScript**, **AntD**, **Recoil.js**, **Emotion** and **Flutter**.
+- 👨‍💻 I’m currently learning **React** with **TypeScript**, **AntD**, **Recoil.js**, **Emotion**
 
 - 👷‍♂️ How to reach me **thanapong.a@kkumail.com**, **lindstorm76@outlook.com**
 
