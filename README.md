@@ -13,7 +13,7 @@
 
 - 👷‍♂️ How to reach me **thanapong.a@kkumail.com**, **lindstorm76@outlook.com**
 
-- 👨‍🎓 Know about my experiences through this **resume** (in progress)
+- 👨‍🎓 Know more about me through this **resume** (in progress)
 
 <h3 align="left">Social:</h3>
 <p align="left">
