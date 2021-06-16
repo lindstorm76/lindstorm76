@@ -5,7 +5,7 @@
 
 - 🛣 My hobbies are coding, reading novel books, watching movies and anime's, listening to musics and podcasts, running etc.
 
-- My favorite programming language: **JavaScript** and **TypeScript**
+- My favorite programming language: **JavaScript** and **TypeScript**.
 
 - My favorite frontend framework: **React**
 
