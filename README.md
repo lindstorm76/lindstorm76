@@ -7,8 +7,6 @@
 
 - My favorite programming language: **JavaScript** and **TypeScript**.
 
-- My favorite frontend framework: **React**
-
 - 👨‍💻 I’m currently learning **React** with **TypeScript**
 
 - 👷‍♂️ How to reach me **thanapong.a@kkumail.com**, **lindstorm76@outlook.com**
