@@ -5,9 +5,9 @@
 
 - 🛣 My hobbies are coding, reading novel books, watching movies and anime's, listening to musics and podcasts, running etc.
 
-- My favorite programming language: **JavaScript** and **TypeScript**.
+- My favorite programming language: **JavaScript**, **TypeScript** and my old friend **NodeJS**
 
-- 👨‍💻 I’m currently learning **React Native**, **Golang** and **Flutter**
+- 👨‍💻 I’m currently learning **React Native** and **Flutter**
 
 - 👷‍♂️ How to reach me **thanapong.a@kkumail.com**, **lindstorm76@outlook.com**
 
