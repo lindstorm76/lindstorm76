@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm P, Thanapong Angkha</h1>
-<h3 align="center">A passionated web/game programmer from Thailand.</h3>
+<h3 align="center">A passionated web/mobile programmer from Thailand.</h3>
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
