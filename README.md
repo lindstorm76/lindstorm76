@@ -5,7 +5,7 @@
 
 - 🛣 My hobbies are coding, reading novel books, watching movies and anime's, listening to musics and podcasts, running etc.
 
-- My favorite programming language: **JavaScript**, **TypeScript**
+- My favorite programming language: **JavaScript**
 
 - 👨‍💻 I’m currently learning **React Native**, **VueJS**, **Swift** and **Flutter** (so many at the se time, ikr)
 
