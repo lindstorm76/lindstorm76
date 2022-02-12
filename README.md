@@ -3,7 +3,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- 🛣 My hobbies are coding, reading novel books, watching movies and anime's, listening to musics and podcasts, running etc.
+- 🛣 My hobbies are coding, reading books, watching movies and animes, listening to musics and podcasts, running and some other exercises.
 
 - My favorite programming language: **JavaScript**
 
