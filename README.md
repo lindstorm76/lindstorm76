@@ -11,8 +11,6 @@
 
 - 👷‍♂️ How to reach me **thanapong.a@kkumail.com**, **lindstorm76@outlook.com**
 
-- 👨‍🎓 Know more about me through this **resume**
-
 <h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/lindstorm76" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="lindstorm76" height="30" width="40" /></a>
