@@ -3,6 +3,8 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+- Currently a senior student at Faculty of Engineering, Khon Kaen University.
+
 - 🛣 My hobbies are coding, reading books, watching movies and animes, listening to musics and podcasts, running and some other exercises.
 
 - My favorite programming language: **JavaScript**
