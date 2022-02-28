@@ -9,7 +9,7 @@
 
 - My favorite programming language: **JavaScript** and **TypeScript**
 
-- 👨‍💻 I’m currently learning **React (w/ TypeScript)** and **Flutter*
+- 👨‍💻 I’m currently learning **React (w/ TypeScript)** and **Flutter**
 
 - 👷‍♂️ How to reach me **thanapong.a@kkumail.com**, **lindstorm76@outlook.com**
 
