@@ -13,11 +13,9 @@
 
 - 👷‍♂️ How to reach me **thanapong.a@kkumail.com**, **lindstorm76@outlook.com**
 
-<h3 align="left">Social:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/lindstorm76" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="lindstorm76" height="30" width="40" /></a>
-<a href="https://www.freecodecamp.org/akela75" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freecodecamp.svg" alt="lindstorm76" height="30" width="40" /></a>
-</p>
+- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="lindstorm76" width="40" /> linkedin.com/in/thanapong-angkha
+- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="lindstorm76" height="30" width="40" /> hackerrank.com/lindstorm76
+- <img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freecodecamp.svg" alt="lindstorm76" height="30" width="40" /> freecodecamp.org/akela75
 
 <h3 align="left">Languages and Tools</h3>
 <h4 align="left">Web Development :</h4>
