@@ -36,4 +36,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lindstorm76&show_icons=true&locale=en&layout=compact&theme=radical" alt="lindstorm75" /></p>
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+![Never gonna give you up!](https://c.tenor.com/CHc0B6gKHqUAAAAi/deadserver.gif)
